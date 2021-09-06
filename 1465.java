@@ -13,4 +13,5 @@ class Solution {
             ans[i] = count;
         }return ans;
     }
+    
 }
